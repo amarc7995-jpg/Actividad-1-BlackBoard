@@ -1,0 +1,5 @@
+import math
+print("Introduce el radio del cícrulo: ")
+radio= float(input())
+area = math.pi * radio**2
+print("El área es: ",area,"m")
